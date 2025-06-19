@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.18">
+	<Document uuid="15314a42-b6df-4524-8883-ae6f883df99c">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.РасходТовара" category="Object">
+				<xr:TypeId>aa9a1833-6d22-4d4b-be7b-f4998d913d45</xr:TypeId>
+				<xr:ValueId>e91660bd-cbf2-461c-9784-3f40013191c7</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.РасходТовара" category="Ref">
+				<xr:TypeId>0583f399-8043-4742-9ade-6f75f8789643</xr:TypeId>
+				<xr:ValueId>593e99ef-391f-4684-96b7-1448337ba30d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.РасходТовара" category="Selection">
+				<xr:TypeId>672c9f52-dba1-4850-acd3-8eef1d2b5e4a</xr:TypeId>
+				<xr:ValueId>95790d1c-7073-4c5d-be26-f58155af35ca</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.РасходТовара" category="List">
+				<xr:TypeId>12307d3f-e4a9-437b-8ef0-36dfbccdaf85</xr:TypeId>
+				<xr:ValueId>06a697db-07a3-498d-91e3-7e457b8602ea</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.РасходТовара" category="Manager">
+				<xr:TypeId>d7244bbb-abe5-4913-8665-5a9651a52807</xr:TypeId>
+				<xr:ValueId>6f01ff31-dd83-4f52-9ce6-042af9adb097</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>РасходТовара</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>b6a6ceb6-2d64-414f-8082-84705f6840d7</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>
